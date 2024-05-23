@@ -6,14 +6,12 @@ This repository contains dataset and code for the paper 'SumSurvey: An Abstracti
 
 Please download the complete dataset from [here](https://www.baidu.com). There are six files in total:
 
-```
-train.source
-train.target
-val.source
-val.target
-test.source
-test.target
-```
+* train.source  
+* train.target  
+* val.source  
+* val.target  
+* test.source  
+* test.target
 
 Each line contains the full text of a paper or its corresponding abstract.
 
