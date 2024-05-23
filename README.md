@@ -4,3 +4,4 @@ This repository contains dataset and code for the paper 'SumSurvey: An Abstracti
 
 ## Dataset
 
+Please download the complete dataset from [here](www.baidu.com).
