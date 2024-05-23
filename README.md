@@ -22,7 +22,10 @@ Each line contains the full text of a paper or its corresponding abstract.
 Please run `main.py` to evaluate intrinsic characteristics of datasets. Four indicators will be calculated:
 
 **Coverage** measures the percentage of words in a summary that are part of an extractive fragment from the document.
+
 **Density** is similar to coverage, where the sum of fragment lengths is changed to the sum of squares of lengths.
+
 **Redundancy** is used to evaluate whether sentences in a summary are similar to each other.
+
 **Uniformit** measures the degree to which salient information in a summary is evenly distributed throughout the document.
 
