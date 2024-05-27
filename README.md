@@ -4,7 +4,7 @@ This repository contains dataset and code for the paper 'SumSurvey: An Abstracti
 
 ## Dataset
 
-Please download the complete dataset from [here](https://www.baidu.com). There are six files in total:
+Please download the complete dataset from [here](https://drive.google.com/drive/folders/1Bhm15N3FQoq3_JtY8Q6HmFTNS74cCmdn?usp=sharing). There are six files in total:
 
 * train.source  
 * train.target  
