@@ -24,3 +24,15 @@ Please run `main.py` to evaluate intrinsic characteristics of datasets. Four ind
 * **Redundancy** is used to evaluate whether sentences in a summary are similar to each other.  
 * **Uniformity** measures the degree to which salient information in a summary is evenly distributed throughout the document.
 
+## Citation
+
+Please cite if you find this paper or repo useful:
+```bibtex
+@inproceedings{liu2024sumsurvey,
+  title={SumSurvey: An Abstractive Dataset of Scientific Survey Papers for Long Document Summarization},
+  author={Liu, Ran and Liu, Ming and Yu, Min and Zhang, He and Jiang, Jianguo and Li, Gang and Huang, Weiqing},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2024},
+  year={2024}
+}
+```
+
